@@ -1,14 +1,14 @@
 ### Hey there, 👋 I'm Alice!
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=srslie&show_icons=true&theme=radical)
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=srslie&show_icons=true&theme=algolia)
 ___
-
-[![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliceruppert/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:aliceruppert@gmail.com)
 
 Thanks for visiting! I'm a Colorado-based lover of warm beverages and hedonistic knowledge. Currently I'm studying front-end software engineering at [Turing School of Software and Design](https://turing.io/). 
 
 I love learning new ways to see data and parse patterns and I like focusing on tangible uses for technology, focusing on accessibility, developer empathy, and the importance of AI ethics.
+
+[![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliceruppert/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:aliceruppert@gmail.com)
 
 - 🌱 I’m currently learning:
   -  Redux
@@ -33,7 +33,7 @@ I love learning new ways to see data and parse patterns and I like focusing on t
 - 😄 Pronouns: she/they
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srslie&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srslie&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
