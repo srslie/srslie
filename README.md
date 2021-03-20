@@ -53,3 +53,7 @@ ___
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
+
+___
+
+Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card) for the cool and open-source readme graphics!
