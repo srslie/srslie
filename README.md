@@ -3,33 +3,20 @@
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=srslie&show_icons=true&theme=algolia)
 ___
 
-Thanks for visiting! I'm a Colorado-based lover of warm beverages and hedonistic knowledge. Currently I'm studying front-end software engineering at [Turing School of Software and Design](https://turing.io/). 
+Hi! I'm a Colorado-based lover of warm beverages. 
 
-I love learning new ways to see data and parse patterns and I like focusing on tangible uses for technology, focusing on accessibility, developer empathy, and the importance of AI ethics.
+Currently a software developer and consultant with [Slalom](https://www.slalom.com/us/en), mainly in Salesforce coding with Apex and LWCs. 
+
+But I enjoy learning new languages or tech stacks, and sometimes code games for fun! :)
 
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliceruppert/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:aliceruppert@gmail.com)
 
 - 🌱 I’m currently learning:
-  -  Redux
-  -  Typescript
-  -  Express
-  -  HTML Canvas
-- 👯 I’m looking to collaborate on:
-  -  OpenSource projects
-- 🤔 I’m looking for help with:
-  - data structures/algorithms
-  - best practices
-  - interview practice or job recommendations!
-- ⚡ Hobbies include:
-  - cooking (and eating!)
-  - napping with my cats
-  - sport climbing and hiking
-  - pulp sci-fi, fantasy, and historical fiction
-  - lectures on Youtube
-  - philosophy podcasts
-  - quad roller skating
-  - video games
+  -  Unity
+  -  C#
+  -  Godot
+  -  Python
 - 😄 Pronouns: she/they
 ___
 
